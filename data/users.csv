@@ -1,1 +1,6 @@
-
+user_id,username,country,signup_date
+1,arushi,India,2025-01-10
+2,john,USA,2025-02-15
+3,maria,UK,2025-03-20
+4,li,China,2025-04-05
+5,sara,Germany,2025-05-12
