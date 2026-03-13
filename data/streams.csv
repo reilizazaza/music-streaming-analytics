@@ -1,1 +1,9 @@
-
+stream_id,user_id,song_id,stream_date,device
+1,1,1,2025-02-01,Mobile
+2,2,3,2025-02-02,Laptop
+3,3,5,2025-02-03,Tablet
+4,4,2,2025-02-04,Mobile
+5,5,4,2025-02-05,Mobile
+6,1,5,2025-02-06,Laptop
+7,2,1,2025-02-07,Mobile
+8,3,3,2025-02-08,Tablet
